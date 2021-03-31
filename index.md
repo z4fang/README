@@ -15,7 +15,7 @@
 
 *introduction*
 
- _Hi! My name is Ken. My favorite coding language is C++. I'm currently third year student in UC San Diego studying Comuter Engineering. I enjoy doing outdoor activity like hiking, playing basketball and swimming. I enjoy coding and solving challenging problem!_
+ _Hi! My name is Ken. My favorite coding language is C++. I'm currently third year student in UC San Diego studying Computer Engineering. I enjoy doing outdoor activity like hiking, playing basketball and swimming. I enjoy coding and solving challenging problem!_
  
  
  **Some Course I have taken are:**
