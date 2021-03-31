@@ -1,6 +1,6 @@
 # Welcome to Ken(Zhongkang)'s pages
 
-<img src="/image/IMG_0817.jpeg" alt="drawing" width="200"/>
+<img src="image/IMG_0817.jpeg" alt="drawing" width="200"/>
 
 
 ### Links
@@ -9,7 +9,7 @@
 
 <p align="center">
 
-<img src="/image/IMG_0875.jpeg" alt="drawing" width="200"/>
+<img src="image/IMG_0875.jpeg" alt="drawing" width="200"/>
 </p>
 
 
